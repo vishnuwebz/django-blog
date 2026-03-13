@@ -1,10 +1,10 @@
-# Django 5 Blog Project
+# Django Blog Project
 
-This is a Django 5 blog project built step-by-step from scratch.
+This is a Django blog project built step-by-step from scratch.
 
 Tech stack:
-- Django 5
-- Python 3.11
+- Django 6.0.3
+- Python 3.14.2
 - MySQL (later)
 - Bootstrap for front-end
 
